@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>3</tab>
+    <showhelp>1</showhelp>
+    <path>C:\DEV\keyboard-mdc2unicode\mdc2unicode_de\mdc2unicode_de.kpj</path>
+    <file ID="id_MRU0" Expanded="1"/>
+    <file ID="id_97c5f3b3ed8d8baec9bf7ee7b330ed17" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\DEV\keyboard-mdc2unicode\aaew_american\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\DEV\keyboard-mdc2unicode\aaew_american\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\DEV\keyboard-mdc2unicode\aaew_american\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_fbeb409bb1f32d99b154f8f10cbe1e3a</ID>
+      <FullPath>C:\DEV\keyboard-mdc2unicode\mdc2unicode_de\source\mdc2unicode_de.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_97c5f3b3ed8d8baec9bf7ee7b330ed17</ID>
+      <FullPath>C:\DEV\keyboard-mdc2unicode\mdc2unicode_de\source\mdc2unicode_de.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>1</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Junicode Two Beta|11|   |0</DebugFont>
+        <CodeFont>Consolas|9|   |0</CodeFont>
+        <CharFont>Junicode Two Beta|11|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_76268e1b8a9699a6ff06118c0a734206</ID>
+      <FullPath>C:\DEV\keyboard-mdc2unicode\mdc2unicode_de\source\..\build\mdc2unicode_de.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_73627d321c435c29122150d06f1febb1</ID>
+      <FullPath>C:\DEV\keyboard-mdc2unicode\mdc2unicode_de\source\..\..\..\..\onlineDrive\Fonts\Junicode\junicodeTwobeta\v1.053\ttf\JunicodeTwoBeta-Regular.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c67b20a01a6b0fe252a352b96fce42eb</ID>
+      <FullPath>C:\DEV\keyboard-mdc2unicode\mdc2unicode_de\source\mdc2unicode_de.ico</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>mdc2unicode_de.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\DEV\keyboard-mdc2unicode\mdc2unicode_de\source\mdc2unicode_de.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>mdc2unicode_de.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\DEV\mdc2unicode\mdc2unicode_de\source\mdc2unicode_de.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>mdc2unicode_de.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\DEV\keyboard-unicode-transliteration\mdc2unicode_de\source\mdc2unicode_de.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>mdc2unicode_de.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\DEV\keyboard-unicode-transliteration\mdc2unicode_de\source\mdc2unicode_de.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
+      <Filename>egydw_de.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\DEV\keyboard-unicode-transliteration\egydw_de\source\egydw_de.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU5</ID>
+      <Filename>mdc2unicode_de.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\DEV\keyboard-unicode-transliteration\mdc2unicode_de\mdc2unicode_de.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU6</ID>
+      <Filename>aaew_american.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\schweitzer\Documents\GitHub\keyboard-unicode-transliteration\aaew_american\source\aaew_american.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU7</ID>
+      <Filename>aaew_american.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_american\source\aaew_american.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

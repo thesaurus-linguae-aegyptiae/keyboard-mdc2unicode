@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<visualkeyboard>
+  <header>
+    <version>10.0</version>
+    <kbdname>mdc2unicode_de</kbdname>
+    <flags>
+      <key102/>
+      <displayunderlying/>
+    </flags>
+  </header>
+  <encoding name="unicode" fontname="Arial" fontsize="-12">
+    <layer shift="">
+      <key vkey="K_oE2">⟨</key>
+      <key vkey="K_QUOTE">a</key>
+      <key vkey="K_HYPHEN">ś</key>
+      <key vkey="K_COLON">o</key>
+      <key vkey="K_LBRKT">u</key>
+      <key vkey="K_BKSLASH">ꜣ</key>
+      <key vkey="K_BKQUOTE">^</key>
+      <key vkey="K_A">ꜥ</key>
+      <key vkey="K_C">č</key>
+      <key vkey="K_I">ꞽ</key>
+      <key vkey="K_O">ꜥ</key>
+      <key vkey="K_V">ṱ</key>
+      <key vkey="K_X">ḫ</key>
+    </layer>
+    <layer shift="S">
+      <key vkey="K_oE2">⟩</key>
+      <key vkey="K_QUOTE">ā</key>
+      <key vkey="K_COLON">ō</key>
+      <key vkey="K_A">ꜣ</key>
+      <key vkey="K_C">č̣</key>
+      <key vkey="K_D">ḏ</key>
+      <key vkey="K_E">ṭ</key>
+      <key vkey="K_H">ḥ</key>
+      <key vkey="K_I">i̯</key>
+      <key vkey="K_J">ī</key>
+      <key vkey="K_K">ḳ</key>
+      <key vkey="K_O">Ꜥ</key>
+      <key vkey="K_Q">ḳ</key>
+      <key vkey="K_S">š</key>
+      <key vkey="K_T">ṯ</key>
+      <key vkey="K_U">u̯</key>
+      <key vkey="K_V">h̭</key>
+      <key vkey="K_X">ẖ</key>
+      <key vkey="K_Z">ï</key>
+      <key vkey="K_LBRKT">ū</key>
+      <key vkey="K_BKSLASH">ʾ</key>
+      <key vkey="K_BKQUOTE">•</key>
+    </layer>
+    <layer shift="CA">
+      <key vkey="K_oE2">|</key>
+      <key vkey="K_SLASH">–</key>
+      <key vkey="K_0">}</key>
+      <key vkey="K_2">²</key>
+      <key vkey="K_3">³</key>
+      <key vkey="K_7">{</key>
+      <key vkey="K_8">[</key>
+      <key vkey="K_9">]</key>
+      <key vkey="K_RBRKT">~</key>
+    </layer>
+    <layer shift="SCA">
+      <key vkey="K_9">⸣</key>
+      <key vkey="K_0">⸗</key>
+      <key vkey="K_8">⸢</key>
+      <key vkey="K_PERIOD">•</key>
+    </layer>
+  </encoding>
+</visualkeyboard>
